@@ -14,7 +14,9 @@ There are two levels of this course.
 ### [Getting Started](./getting_started/introduction)
 * Learn the first steps to using Github and the Git architecture. 
 
-### Next Steps
+### [Next Steps](./next_steps/introduction)
 * Get ready to start working with other's code
 * Learn how to make your code ready for others to contribute
 * Learn about some of the common Git Systems
+
+### [Here are some other Git/Github Resources (That you can contribute to!)](./resources)
