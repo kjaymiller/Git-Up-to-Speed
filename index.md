@@ -11,7 +11,7 @@ This course is designed to be a simple walkthough of git and the GitHub platform
 
 There are two levels of this course.
 
-### Getting Started
+### [Getting Started](./getting_started/introduction)
 * Learn the first steps to using Github and the Git architecture. 
 
 ### Next Steps
