@@ -5,8 +5,10 @@ You may have done some of these things already so feel free to skip around.
 
 ### This Section Includes
 * [Creating an Account](./new_account)
+* [Your Dashboard](./dashboard)
 * Creating Your First Project
 * README.md
+* LICENSE
 * Saving code to your Machine
 * Uploading changes to GitHub
 * Issues
