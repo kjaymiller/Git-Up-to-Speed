@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="../style/base.css"
+<link rel="stylesheet" href="/Git-Up-to-Speed/style/base.css"
 </head>
 
 <h1>Git Crash Course Next Steps</h1>
