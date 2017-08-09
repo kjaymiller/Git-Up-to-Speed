@@ -1,17 +1,22 @@
 .footer {
-  font-size: 13px;
-  font-weight: bold
+  font-size: 16px;
+  font-weight: bold;
+  margin: auto;
+  width: 80%;
+  text-align: center;
 }
 
-h1 .site-title {
+.site-title {
   color: #c83a17;
   border-bottom: solid 2px #d3d3d3;
   width: 10em;
   text-decoration: none;
   padding-bottom: 1em;
+  font-size: 2em;
+  font-weight: bold;
 }
 
-h1 .site_title a:visited {color: #c83a17;}
+.site_title a:visited {color: #c83a17;}
 
 h1 {
   color: #8e8e8e;
@@ -25,3 +30,11 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
 }
+
+.banner h1 {text-align: center;
+font-size: 8em;}
+
+.center {justify-content: center;
+padding: 10em;}
+
+body

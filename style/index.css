@@ -1,1 +1,8 @@
-ul li img {height: 10em;}
+ul li img {height: 14em;}
+
+.courses {display: flex;
+flex-wrap: wrap;
+justify-content: center;}
+.course {width: 16em;
+font-size: 2em;
+padding: 0 1em;}
