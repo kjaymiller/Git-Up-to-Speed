@@ -11,5 +11,7 @@ You can also jump to [repositories](../terms#Repository) that you contribute to 
 ### Now you're ready to *Create Your First Project*
 **Go Back to [Getting Started](./introduction)**
 
+<p class="footer">
 This is an open source course that is completely Unlicensed. Check out the code and request changes here!
 Managed and (Possibly) maintained by [Jay MIller](https://kjaymiller.github.io/kjaymiller).
+</p>

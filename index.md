@@ -21,5 +21,7 @@ There are two levels of this course.
 
 ### [Here are some other Git/Github Resources (That you can contribute to!)](./resources)
 
+<p class="footer">
 This is an open source course that is completely Unlicensed. Check out the code and request changes here!
 Managed and (Possibly) maintained by [Jay MIller](https://kjaymiller.github.io/kjaymiller).
+</p>

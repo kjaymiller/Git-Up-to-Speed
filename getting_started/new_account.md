@@ -5,5 +5,7 @@
 
 **Continue to [Dashboard](./dashboard)**
 
+<p class="footer">
 This is an open source course that is completely Unlicensed. Check out the code and request changes here!
 Managed and (Possibly) maintained by [Jay MIller](https://kjaymiller.github.io/kjaymiller).
+</p>
