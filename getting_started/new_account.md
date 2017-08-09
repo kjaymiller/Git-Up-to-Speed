@@ -4,3 +4,6 @@
 ![GitHub Home Page](https://kjaymiller.github.io/Git-Up-to-Speed/screenshots/landing_page.PNG)
 
 **Continue to [Dashboard](./dashboard)**
+
+This is an open source course that is completely Unlicensed. Check out the code and request changes here!
+Managed and (Possibly) maintained by [Jay MIller](https://kjaymiller.github.io/kjaymiller).
