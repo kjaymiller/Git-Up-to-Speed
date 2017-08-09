@@ -1,3 +1,5 @@
+body {font-size: 1.5em;}
+
 .footer {
   font-size: 16px;
   font-weight: bold;
@@ -30,7 +32,7 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
 }
-.nav {padding: 0 1em;}
+.nav {padding: 1em 2em 0 2em;}
 .nav-title h1 {font-size: 2em;
 color: black}
 
@@ -52,4 +54,5 @@ font-size: 6em;}
 .center {justify-content: center;
 padding: 10em;}
 
-body {font-size: 1.5em;}
+.lesson-content {width: 80%;
+margin: auto;}
