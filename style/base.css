@@ -8,4 +8,5 @@ h1, h1 a:visited{
   border-bottom: solid 2px #d3d3d3;
   width: 2em;
   text-decoration: none;
+  padding-bottom: 2em;
 }
