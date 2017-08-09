@@ -1,10 +1,10 @@
 # Getting Started
 Github is a fast and easy way to manage and maintain your code.
 
-You may have done some of these things already so feel free to skip around. 
+You may have done some of these things already so feel free to skip around.
 
 ### This Section Includes
-* Creating an Account
+* [Creating an Account](./new_account)
 * Creating Your First Project
 * README.md
 * Saving code to your Machine
