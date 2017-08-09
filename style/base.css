@@ -33,7 +33,8 @@ h1 {
 .nav-title h1 {font-size: 2em;
 color: black}
 
-.nav-title a:visited {color: black;}
+.nav-title a:visited {color: black;
+text-decoration: none;}
 .banner h1 {text-align: center;
 font-size: 8em;}
 
