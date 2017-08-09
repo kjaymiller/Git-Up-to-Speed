@@ -32,8 +32,8 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
 }
-.nav {padding: 1em 2em 0 2em;}
-.nav-title h1 {font-size: 2em;
+.nav {padding: .5em 2em 0 2em;}
+.nav-title h1 {font-size: 1.5em;
 color: black}
 
 .nav-title a:visited {
