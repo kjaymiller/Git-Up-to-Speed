@@ -62,6 +62,7 @@ padding: 10em;}
 .lesson-content {width: 80%;
 margin: auto;}
 
-.lesson-content img {text-align: center;}
+.lesson-content img {text-align: center;
+margin: auto;}
 
 a, a:visited {color: #494949;}
