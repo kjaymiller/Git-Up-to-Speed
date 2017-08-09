@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="../style/base.css"
+</head>
 # Your GitHub Dashboard
 
 The GitHub dashboard is the screen that you will default to when you are logged into GitHub.
