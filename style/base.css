@@ -11,6 +11,8 @@ h1 .site-title {
   padding-bottom: 1em;
 }
 
+h1 .site_title a:visited {color: #c83a17;}
+
 h1 {
   color: #8e8e8e;
   font-size: 2em;
