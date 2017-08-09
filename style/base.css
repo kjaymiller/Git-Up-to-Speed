@@ -30,6 +30,7 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
 }
+.nav {padding: 0 1em;}
 .nav-title h1 {font-size: 2em;
 color: black}
 
