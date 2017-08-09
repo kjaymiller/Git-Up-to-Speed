@@ -19,3 +19,8 @@ h1 {
   font-weight: bold;
   width: 100%;
 }
+
+.flex-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+}
