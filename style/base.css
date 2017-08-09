@@ -30,7 +30,9 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
 }
-
+.nav-title h1 {font-size: 2em;
+color: black}
+.nav-title h1 a:visited {color: black;}
 .banner h1 {text-align: center;
 font-size: 8em;}
 
