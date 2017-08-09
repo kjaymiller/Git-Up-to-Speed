@@ -8,7 +8,8 @@ From the dashboard you can view updates from [repositories](../terms#Repository)
 
 You can also jump to [repositories](../terms#Repository) that you contribute to or your local [repositories](../terms#Repository)
 
-Go Back to [Getting Started](./introduction)
+### Now you're ready to *Create Your First Project*
+**Go Back to [Getting Started](./introduction)**
 
 This is an open source course that is completely Unlicensed. Check out the code and request changes here!
 Managed and (Possibly) maintained by [Jay MIller](https://kjaymiller.github.io/kjaymiller).
