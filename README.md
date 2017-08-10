@@ -20,7 +20,18 @@ Here are the steps that should be taken on all contributions.
 
 * Your code will be merged for you by a contributor.
 
-## Known Issues that will be Resolved
+## Known Issues (and Solutions)
 ### CSS doesn't work if not using GH-Pages or the subroot folder Git-Up-to-Speed  
 
-This was mostly due to GitHub having an assets folder that you can't modify easily with the base with the base `gh-pages`. This code may be converted to a pelican page or jekyll page to resolve the issues later on if demand for the page is requested.
+This was mostly due to GitHub having an assets folder that you can't modify easily with the base with the base `gh-pages`.
+
+**Possible Solutions**
+This code may be converted to a pelican page or jekyll page to resolve the issues later on if demand for the page is requested.
+
+Until then, *test* css links have been added in the headers of each page.
+
+### Relative Links don't work if testing without the .html suffix
+This is due to a lack of web services running.
+
+ **Solution**
+ append the `.html` suffix to your relative urls.
