@@ -7,3 +7,6 @@ justify-content: center;}
 .course {width: 16em;
 font-size: 1em;
 padding: 0 1em;}
+
+.course h3 {color: #494949;
+text-decoration: underline;}
