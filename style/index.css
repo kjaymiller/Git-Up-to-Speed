@@ -1,4 +1,4 @@
-ul li img {height: 8em;}
+.header-image {height: 10em;}
 
 .courses {display: flex;
 flex-wrap: wrap;
