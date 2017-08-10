@@ -56,9 +56,10 @@ color: black;}
 
 .banner-small h1 {text-align: center;
 font-size: 2em;}
-.center {justify-content: center;
-padding: 10em;}
-
+.center {
+  justify-content: center;
+  padding: 1em;
+}
 .lesson-content {width: 80%;
 margin: auto;}
 
