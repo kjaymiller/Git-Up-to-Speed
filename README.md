@@ -19,4 +19,6 @@ Here are the steps that should be taken on all contributions.
   This will handle all conflicts on your end and not on `origin/master`
 
 * Your code will be merged for you by a contributor.
-  
+
+## Known Issues that will be Resolved
+* CSS doesn't work if not using GH-Pages or the subroot folder Git-Up-to-Speed  
