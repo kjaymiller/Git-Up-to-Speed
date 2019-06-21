@@ -48,7 +48,7 @@
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-comm-annual"
+  id="checkout-button-community"
   role="link"
 >
   Checkout
@@ -59,20 +59,20 @@
 <script>
   var stripe = Stripe('pk_test_to8rSn0qxOTqmikle4oyu2ld');
 
-  var checkoutButton = document.getElementById('checkout-button-comm-annual');
+  var checkoutButton = document.getElementById('checkout-button-community');
   checkoutButton.addEventListener('click', function () {
     // When the customer clicks on the button, redirect
     // them to Checkout.
     stripe.redirectToCheckout({
-      items: [{plan: 'comm-annual', quantity: 1}],
+      items: [{plan: 'community', quantity: 1}],
 
       // Do not rely on the redirect to the successUrl for fulfilling
       // purchases, customers may not always reach the success_url after
       // a successful payment.
       // Instead use one of the strategies described in
       // https://stripe.com/docs/payments/checkout/fulfillment
-      successUrl: 'https://productivityintech.com/success',
-      cancelUrl: 'https://productivityintech.com/canceled',
+      successUrl: 'https://productivityintech.com/',
+      cancelUrl: 'https://productivityintech.com/',
     })
     .then(function (result) {
       if (result.error) {
